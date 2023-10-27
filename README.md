@@ -1,6 +1,5 @@
 # GitShow
 JavaScript and API
 
-working page link
-
-[GitSsow](https://vibhav-jaiswal.github.io/GitShow/)
+#view the working web page:
+[GitShow](https://vibhav-jaiswal.github.io/GitShow/)
